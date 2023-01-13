@@ -1,0 +1,5 @@
+train: ../dataset/train
+test: ../dataset/test
+val: ../dataset/valid
+nc: 2
+names: ['fish', 'trash']
